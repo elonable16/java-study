@@ -3,10 +3,12 @@ package hello;
 public class hello {
 	public static void main(String[] args) {
 		int h = 1 ;
+		int m = 2;
 		if(h == 1) {
 			int i = 1;
 			System.out.print(i);
 		}
+
 
 	}
 }
