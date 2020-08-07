@@ -20,6 +20,6 @@ public class ScannerEx {
 		boolean isSingle = scanner.nextBoolean();
 		System.out.println("도시는 " + isSingle + "입니다");
 		scanner.close();
-	}
+	} 
 
 }
