@@ -25,5 +25,4 @@ public class ButtonEX extends JFrame {
 	public static void main(String[] args) {
 		new ButtonEX();
 	}
-
 }
